@@ -1,0 +1,10 @@
+{
+    "build": {
+      "env": {
+        "JAVA_OPTS": "-Xmx512m"
+      },
+      "buildCommand": "mvn clean package"
+    },
+    "startCommand": "catalina.sh run"
+  }
+  
