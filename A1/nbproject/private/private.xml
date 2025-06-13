@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/S72508/A1/A1/web/index.html</file>
+            <file>file:/C:/S72508/A1/A1/web/login.jsp</file>
+            <file>file:/C:/S72508/A1/A1/src/java/model/Payment.java</file>
+            <file>file:/C:/S72508/A1/A1/web/logout.jsp</file>
+            <file>file:/C:/S72508/A1/A1/web/recordPayment.jsp</file>
+            <file>file:/C:/S72508/A1/A1/web/register.jsp</file>
+            <file>file:/C:/S72508/A1/A1/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/controller/DeleteUserServlet.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/controller/UpdateOrderServlet.java</file>
+            <file>file:/C:/S72508/A1/A1/web/adminDashboard.jsp</file>
+            <file>file:/C:/S72508/A1/A1/web/viewAllOrders.jsp</file>
+            <file>file:/C:/S72508/A1/A1/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/model/MenuItem.java</file>
+            <file>file:/C:/S72508/A1/A1/web/addMenu.jsp</file>
+            <file>file:/C:/S72508/A1/A1/src/java/util/DBConnection.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/model/Order.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/controller/UpdateMenuServlet.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/model/User.java</file>
+            <file>file:/C:/S72508/A1/A1/web/menu.jsp</file>
+            <file>file:/C:/S72508/A1/A1/src/java/model/MenuDAO.java</file>
+            <file>file:/C:/S72508/A1/A1/web/editMenu.jsp</file>
+            <file>file:/C:/S72508/A1/A1/web/editOrder.jsp</file>
+            <file>file:/C:/S72508/A1/A1/web/editProfile.jsp</file>
+            <file>file:/C:/S72508/A1/A1/src/java/model/UserDAO.java</file>
+            <file>file:/C:/S72508/A1/A1/web/viewOrders.jsp</file>
+            <file>file:/C:/S72508/A1/A1/src/java/controller/AddMenuServlet.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/model/PaymentDAO.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/controller/PlaceOrderServlet.java</file>
+            <file>file:/C:/S72508/A1/A1/web/placeOrder.jsp</file>
+            <file>file:/C:/S72508/A1/A1/src/java/model/OrderDAO.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/controller/DeleteMenuServlet.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/controller/UpdateUserServlet.java</file>
+            <file>file:/C:/S72508/A1/A1/src/java/controller/RecordPaymentServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
