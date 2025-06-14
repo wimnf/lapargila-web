@@ -8,9 +8,9 @@ public class DBConnection {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver"); // newer driver
             return DriverManager.getConnection(
-                "jdbc:mysql://ballast.proxy.rlwy.net:52598/railway", 
+                "jdbc:mysql://mysql-iyu9.railway.internal:3306/railway", 
                 "root",                                    // MySQL username
-                "admin"                                          // MySQL password (blank by default)
+                "ZUSUMHvlcUbhwUjJAMxblpdzTSnluvsC"                                          // MySQL password (blank by default)
             );
         } catch (Exception e) {
             e.printStackTrace();
