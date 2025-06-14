@@ -9,10 +9,9 @@ public class DBConnection {
             Class.forName("com.mysql.cj.jdbc.Driver"); // newer driver
             String user = System.getenv("MYSQLHOST");
             System.out.println(user);
-            Connection conn = DriverManager.getConnection('jdbc:mysql://mysql-iyu9.railway.internal:3306/railway?useSSL=false', 
+            return DriverManager.getConnection('jdbc:mysql://mysql-iyu9.railway.internal:3306/railway?useSSL=false', 
                                               'root', 'ZUSUMHvlcUbhwUjJAMxblpdzTSnluvsC');
-            System.out.println(conn);
-            return conn;
+            
             //mysql://root:ZUSUMHvlcUbhwUjJAMxblpdzTSnluvsC@mysql-iyu9.railway.internal:3306/railway
         } catch (Exception e) {
             e.printStackTrace();
