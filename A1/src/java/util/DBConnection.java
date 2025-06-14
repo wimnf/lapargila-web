@@ -7,11 +7,8 @@ public class DBConnection {
     public static Connection getConnection() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver"); // newer driver
-            return DriverManager.getConnection(
-                "jdbc:mysql://localhost:3306/lapargila_db", // match your database name
-                "root",                                    // MySQL username
-                "admin"                                          // MySQL password (blank by default)
-            );
+            returnDriverManager.getConnection('jdbc:mysql://ballast.proxy.rlwy.net:52598/railway', 
+                                              'root', 'ZUSUMHvlcUbhwUjJAMxblpdzTSnluvsC');
         } catch (Exception e) {
             e.printStackTrace();
             return null;
