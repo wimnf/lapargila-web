@@ -7,8 +7,9 @@ public class DBConnection {
     public static Connection getConnection() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver"); // newer driver
-            return DriverManager.getConnection('jdbc:mysql://ballast.proxy.rlwy.net:52598/railway', 
+            return DriverManager.getConnection('jdbc:mysql://mysql-iyu9.railway.internal:3306/railway', 
                                               'root', 'ZUSUMHvlcUbhwUjJAMxblpdzTSnluvsC');
+            //mysql://root:ZUSUMHvlcUbhwUjJAMxblpdzTSnluvsC@mysql-iyu9.railway.internal:3306/railway
         } catch (Exception e) {
             e.printStackTrace();
             return null;
